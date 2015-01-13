@@ -1,6 +1,7 @@
 # ClusteringApplication
 Application pour les méthodes non superviées.
 
+<img src="https://raw.githubusercontent.com/dmvprojectfstf/ClusteringApplication/master/src/app/logo_panel.PNG" /> <br/>
 Groupe de travail : <br/>
 El Mazouri Fatima Zahra <br/>
 Elhouari Meriame <br/>
